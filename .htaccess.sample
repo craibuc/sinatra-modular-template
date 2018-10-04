@@ -1,0 +1,5 @@
+PassengerEnabled On
+RackBaseURI /
+PassengerAppRoot /home/<user_name>/apps/<app_name>
+PassengerRuby /usr/local/bin/ruby233
+PassengerLoadShellEnvVars On
