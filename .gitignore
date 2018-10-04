@@ -1,0 +1,15 @@
+log/*
+!log/.keep
+
+tmp/*
+!tmp/.keep
+
+# rspec
+spec/examples.txt
+
+# secret stores
+.env
+config/secrets.yml
+
+# phusion passenger
+.htaccess
